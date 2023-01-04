@@ -1,0 +1,22 @@
+id: AB6754E0E
+title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+type: translation
+pechas:
+- I9847B191
+- I27B0B731
+- I84018954
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:38:26.259823
+  last_modified_at: 2023-01-04 11:38:26.259833
+  collections:
+  - Dilgo Khyentse Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9847B191/DDA8: 3B6E
+  I27B0B731/A73A: 3B6E
+  I84018954/9376: 3B6E
